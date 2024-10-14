@@ -24585,7 +24585,8 @@ a:hover {
 
 /* line 4, ../scss/_global.scss */
 a:hover, a:focus {
-  color: #FFFFFF;
+  color: #daae81;
+  /*color: #FFFFFF;*\
 }
 
 /* line 5, ../scss/_global.scss */
