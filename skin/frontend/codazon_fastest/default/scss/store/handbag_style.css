@@ -360,7 +360,10 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #999;
+  color: red;
+  /*color: #999;*/
+
+
 }
 
 .wrapper {
