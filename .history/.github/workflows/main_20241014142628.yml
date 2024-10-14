@@ -17,6 +17,6 @@ jobs:
       with:
         server: ${{ secrets.FTP_HOST }}
         username: ${{ secrets.FTP_USER }}
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: ${{ secrets.ftp_password }}
         server-dir: /domains/crgr.com.br/public_html/
         port: 21
